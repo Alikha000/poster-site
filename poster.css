@@ -4,9 +4,9 @@
 }
 
 :root{
-    --c1:#efdec2;
-    --c2:#85b6b3;
-    --c3:#173f4e;
+    --c1:#FBF7F1;
+    --c2:#236B96;
+    --c3:#164150;
 }
 body {
   background-color: var(--c1);
