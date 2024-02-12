@@ -23,11 +23,14 @@ body {
 
 h3{
     text-align: center;
-    color: var(--c3);
+    color: var(--c1);
     font-style: none;
     text-decoration: none;
     margin: 20px;
-
+  background-color: var(--c3);
+  padding: 20px;
+  border-radius: 10px;
+  line-height: 200%;
 }
 
 a{
@@ -120,6 +123,10 @@ button:hover {
   text-align: center;
 }
 
+p{
+  color: var(--c3);
+  font-weight: bold;
+}
 
 .links{
     margin: 20px;
